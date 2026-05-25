@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartpync",
+        "uuid": 916416,
+        "checksum": "7xqfyo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
